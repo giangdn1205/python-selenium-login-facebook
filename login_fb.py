@@ -45,7 +45,7 @@ if ma_2fa != '':
         sleep(2)
     except:
         sleep(2)
-driver.get('https://m.facebook.com/dngiang1205')
+driver.get('https://m.facebook.com/dngiang2003')
 sleep(2)
 # sleep(5)
 # driver.quit()
