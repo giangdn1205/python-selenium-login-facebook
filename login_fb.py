@@ -46,10 +46,5 @@ if ma_2fa != '':
     except:
         sleep(2)
 driver.get('https://m.facebook.com/dngiang2003')
-sleep(2)
-# sleep(5)
-# driver.quit()
-
-
-
-
+input("Nhấp enter để kết thúc chương trình!")
+driver.quit()
